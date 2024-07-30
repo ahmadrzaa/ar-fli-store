@@ -1,5 +1,7 @@
-# ar-fli-store
+
 # AR-Flip_Store
+![image](https://github.com/user-attachments/assets/367c08d7-ca97-4e2d-90c8-f973dae887d8)
+
 
 AR-Flip_Store is a simple e-commerce web page showcasing various products like jeans, blazers, and more. It includes features like a shopping cart, product navigation, and responsive design. The project is built using HTML, CSS, and JavaScript, and hosted on GitHub.
 
